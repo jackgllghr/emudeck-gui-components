@@ -43,6 +43,7 @@ import iconJoystick from 'assets/icon/joystick.svg';
 import iconPackage from 'assets/icon/package.svg';
 import iconQuestion from 'assets/icon/question.svg';
 import iconDisk from 'assets/icon/disk.svg';
+import iconPlaynite from 'assets/icon/playnite.png';
 import ar43 from 'assets/ar43.png';
 import ar32 from 'assets/ar32.png';
 import ar43s from 'assets/ar43snes.png';
@@ -151,6 +152,7 @@ export {
   iconPackage,
   iconQuestion,
   iconDisk,
+  iconPlaynite,
   ar43,
   ar32,
   ar43s,
